@@ -27,5 +27,4 @@ venv/
 Thumbs.db
 
 # Output
-*.html
 output/
