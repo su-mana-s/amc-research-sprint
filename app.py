@@ -1,5 +1,7 @@
 import streamlit as st
 import os
+import streamlit.components.v1 as components
+
 
 st.set_page_config(layout="wide")
 st.title("Agreement Analysis Dashboard")
@@ -17,4 +19,4 @@ for file in files:
     with open(path, "r", encoding="utf-8") as f:
         html_content = f.read()
     
-    st.iframe(html_content, height=600, scrolling=True)
+components.html(html_content, height=600, scrolling=True)
