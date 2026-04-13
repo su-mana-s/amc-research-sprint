@@ -17,4 +17,4 @@ for file in files:
     with open(path, "r", encoding="utf-8") as f:
         html_content = f.read()
     
-    st.components.v1.html(html_content, height=600, scrolling=True)
+    st.st.iframe(html_content, height=600, scrolling=True)
