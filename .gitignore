@@ -2,6 +2,7 @@ amc/
 challenges/
 data/
 examples/
+trash/
 
 # Python
 __pycache__/
