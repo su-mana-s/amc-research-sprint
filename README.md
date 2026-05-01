@@ -3,7 +3,7 @@ This repo contains the data analysis and visualisation done as part of the [AMC 
 ### Team:
 - Arwen Smit
 - Angel Shen
-- Cai S Blanton
+- Cai Blanton
 - Sumana
 
 # Intrusiveness as a function of uncertainty and risk
