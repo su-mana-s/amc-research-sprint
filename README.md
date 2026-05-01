@@ -20,4 +20,6 @@ We can use more than 80 years of data from nuclear safety treaties as a starting
 
 Nuclear arms control verifies tangible outputs: warheads, delivery systems, fissile material. Nuclear development and access is also constrained to government bodies, and deployment to high level officials. In contrast, AI control must verify behaviour, capabilities, and processes. Its development is in the hands of private corporations and non-profits, and its capabilities available to a myriad of users. The object of risk has shifted; therefore, the inspection architecture must shift with it.
 
+#
+Read more [here](https://docs.google.com/document/d/1dK7T5MEK1_DUrgfAPATJqudWfYA1kDI5Z_u3u4oaLuw/edit?usp=sharing)
 
